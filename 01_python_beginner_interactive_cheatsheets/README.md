@@ -25,7 +25,7 @@ The main advantage of this track that it gives you the ability to learn while tr
  - **Least Recommended Option**, review the notebooks on read only mood via github, but the notebooks will not be interactive in that option
 
 ## Track contents:
- - Built-in Python types
+ - Built-in Python types, run this Notebook via [**Google Colab Platform**](https://colab.research.google.com/github/mhmaem/python_university/blob/master/01_python_beginner_interactive_cheatsheets/01_01_types.ipynb)
  - Built-in Python operators
  - Control flow structures
  - User defined functions
