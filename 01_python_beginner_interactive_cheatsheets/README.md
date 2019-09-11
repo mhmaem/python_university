@@ -2,23 +2,23 @@
 Python Beginner Interactive Cheat Sheets are Jupyter Notebooks which contains Python code snippets of basic level
 This track needs primarily knowledge of the procedural development to be able to digest this track contents
 
-## For whom this track?
+## Who is this for?
  - New comers to the Python world
  - Students who need to utilize python for simulation and so on
- - Data analysts and scientists who need to utilize the huge data centeric Python echo system
+ - Data analysts and scientists who need to utilize the huge data centeric Python ecosystem
  - Python developers who want to review the language syntax and tricks for exam or interview
 
 ## Trying to be a professional Python developer?
-this track contains the required primarily knowledge for that but it is not enough yet,  to become a professional Python developer you will need to check the **Python Intermediate Interactive Cheat Sheets** track
+This track contains the required primarily knowledge to get you started but it's not quite enough to become a full professional! To become a professional Python developer you will need to check the **Python Intermediate Interactive Cheat Sheets** track
 
-## Why one more learning track?
+## Why yet another course?
  - More comprehensive cheat sheets
  - Actively updated
  - Learning while trying 
  - No need to preinstall any software to start learning (utilizing **[Google Colab Platform](https://colab.research.google.com)**)
  - All what is needed is a modern browser, so you can even learn through your phone (utilizing **[Google Colab Platform](https://colab.research.google.com)**)
 
-## How to use this track material?
+## How to use the material?
 The main advantage of this track that it gives you the ability to learn while trying interactively, you can learn from the track's notebooks through many ways such like:
  - **Recommended Option**, at the top of each notebook there will be link open latest version directly  on **[Google Colab Platform](https://colab.research.google.com)** , that will allow you to run the original code snippets and even modify it before running it
  - Download and play the notebooks on any Python stack that supports Jupyter as an example **[Anaconda](https://www.anaconda.com/)** 
